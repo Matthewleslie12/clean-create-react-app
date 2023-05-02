@@ -1,0 +1,14 @@
+{
+  "name": "clean-create-react-app",
+  "version": "1.0.0",
+  "description": "A script that will remove files that are not needed when creating a react app using create-react-app",
+  "main": "clean.js",
+  "scripts": {
+    "test": "node clean.js"
+  },
+  "author": "Matthew Leslie",
+  "license": "ISC",
+  "files": [
+    "clean.js"
+  ]
+}

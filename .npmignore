@@ -1,0 +1,5 @@
+*.log
+*.md
+*.json
+test/
+build/
