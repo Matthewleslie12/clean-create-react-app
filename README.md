@@ -1,5 +1,5 @@
-## Clean Create-React-App
-Clean Create-React-App is a script that removes unnecessary files that are generated when creating a React app using create-react-app. This package removes the following files:
+## Cleaner-Create-React-App
+Cleaner-Create-React-App is a script that removes unnecessary files that are generated when creating a React app using create-react-app. This package removes the following files:
 
 ``public/logo192.png``,
 ``public/logo512.png``,
