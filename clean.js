@@ -4,8 +4,14 @@ const filesToDelete = [
   "public/logo192.png",
   "public/logo512.png",
   "public/robots.txt",
-  "src/logo.svg",
   "public/favicon.ico",
+  "src/logo.svg",
+  "src/App.css",
+  "src/App.test.js",
+  "src/index.css",
+  "src/logo.svg",
+  "src/reportWebVitals.js",
+  "src/setupTests.js",
 ];
 
 filesToDelete.forEach((file) => {
